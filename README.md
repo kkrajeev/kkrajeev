@@ -1,13 +1,13 @@
 # Rajeev K. K.
 
 PhD researcher in intelligent transportation, IoV/CAV, and edge-assisted mobility.
-This page is the public index of repositories. Open a link below; do not start from the leftover `docs` template.
+This page is the public index of repositories.
 
 ## Public repositories
 
 | Repository | What it is | Link |
 |---|---|---|
-| **mtech-cloud-computing-review-topics** | MTech review-article topics in cloud computing, starter papers, and project conversion paths | https://github.com/kkrajeev/mtech-cloud-computing-review-topics |
+| **221EIT002-CLOUD-COMPUTING-AND-SECURITY** | KTU M.Tech course workspace: seminars and literature survey for Cloud Computing and Security | https://github.com/kkrajeev/221EIT002-CLOUD-COMPUTING-AND-SECURITY |
 | **LaneDropMerge_Coordinated_HighwayEnv** | Lane-drop merging experiments on Highway-Env (coordinated / MARL setup) | https://github.com/kkrajeev/LaneDropMerge_Coordinated_HighwayEnv |
 
 Profile: https://github.com/kkrajeev
@@ -16,9 +16,9 @@ Profile: https://github.com/kkrajeev
 
 Use this link only:
 
-**https://github.com/kkrajeev/mtech-cloud-computing-review-topics**
+**https://github.com/kkrajeev/221EIT002-CLOUD-COMPUTING-AND-SECURITY**
 
-Read `README.md` there. Collect at least 10 peer-reviewed papers for the review article. Treat the topic list as a starting map, not a bibliography to copy.
+Open that README. Pick one seminar (Issue #1) and one literature-survey topic (Issue #2).
 
 ## Other repositories on this account
 
@@ -28,10 +28,9 @@ Several research codebases (lane-drop SUMO, LEAT-IoV, IoV projects) are **privat
 
 ## Pin these on the profile (one-time, in the GitHub UI)
 
-GitHub does not allow pins to be set through the API. After opening https://github.com/kkrajeev while logged in:
-
-1. Click **Customize your pins**
-2. Unpin `docs` if it is selected
-3. Pin:
-   - `mtech-cloud-computing-review-topics`
+1. Open https://github.com/kkrajeev while logged in
+2. Click **Customize your pins**
+3. Unpin `docs` if it is selected
+4. Pin:
+   - `221EIT002-CLOUD-COMPUTING-AND-SECURITY`
    - `LaneDropMerge_Coordinated_HighwayEnv`
